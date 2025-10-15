@@ -2,6 +2,8 @@
 
 **Autonomous On-Chain Intelligence that Learns from Blockchain Signals**
 
+Deployed Contract Address: 0x86a443fD0f3E87e6FE13F542a4205A5ecCCdAc84
+
 ---
 
 ## Concept Summary
